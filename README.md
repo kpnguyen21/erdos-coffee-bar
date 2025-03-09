@@ -13,7 +13,9 @@ Erdos UX Research - Spring 2025
             <li><a href="#Predicting-consumers">Predicting alcohol consumers from the University of Houston</a></li>
         </ul>
     <li><a href="#Market-Analysis">Market Analysis</a>
+    <li><a href="#Cost">Cost of Diversification</a>
     <li><a href="#Risk-Opportunity">Risk/ Opportunity</a>
+    <li><a href="#Code-Description">Code Description</a>
 </ul>
 
 ---
@@ -94,6 +96,24 @@ We obtained enrollment data between Spring 2014 and Fall 2024 from [The Universi
 ---
 
 <h3 id="Market-Analysis">Market Analysis</h3>
+
+---
+
+<h3 id="Cost">Cost of Diversification</h3>
+
+The diversification project for Nook Café to enter the alcohol market is estimated to cost $171,985 in the first year. The cost includes licensing and permits, renovations and equipment, inventory and supplies, staffing and training, marketing and branding, and ongoing costs. Although Nook Café is an existing business known for serving coffee to customers, the drive for diversification into alcohol will require the acquisition of a liquor license, a business permit modification to accommodate the new business line, and training and certification for six new employees to operate the bar in the evenings and nights. The cost for licensing and permits is an estimated $7,500.
+
+Nook Café focuses on serving coffee only, and the diversification drive requires renovating existing facilities to enable an alcohol offering. The need for renovation also involves acquiring new equipment, including bar coolers and refrigerators, bar blenders or frozen drink machines, draft beer dispensers, underbar sinks, commercial glass washers, and point-of-sale software. Inventory and supplies are estimated to cost $6,740.
+
+The newly diversified Nook Café will offer alcoholic beverages and side drinks alongside coffee drinks. The initial alcohol stock, consisting of beer, wine, liquor, and side drinks, including mixers, garnishes, and supplies, will cost $6,740. Since Nook Café offers fast-moving consumer goods (FMCG), the cost of inventory and supplies will continuously increase with higher market demand.
+
+The new Nook Café requires additional staffing of six workers to man the café in the evenings and nights. We estimate three workers to handle a day's shift at a time. We estimate the new workers' training and annual wages at $132,290. We recommend that Nook Café pay a wage above the state's minimum of $7.25.
+
+A Nook Café, a hybrid business serving coffee and alcoholic beverages, requires promotion. Thus, the management may need to spend $4,925 to create business awareness. The promotional effort will include signage, rebranding, advertising, and promotions. In addition to marketing and branding costs, the management needs to set aside funds for ongoing costs, which will include insurance premiums and other miscellaneous expenses estimated at $7,880. The cost breakdown explains the estimations in more detail.
+
+---
+
+<h3 id="Code-Description">Code Description</h3>
 
 ---
 
