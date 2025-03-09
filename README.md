@@ -41,18 +41,18 @@ Nook is located on a large campus with an enrollment of 47,980 in 2024. Besides,
 <h4 id="#University-of-Houston-students">University of Houston students data</h4>
 
 <p float="left">
-  <img src="/Figure/Spring_Gender_prediction.jpg" width="500" />
-  <img src="/Figure/Fall_Gender_prediction.jpg" width="500" /> 
+  <img src="/Figure/Spring_Gender_prediction.jpg" width="400" />
+  <img src="/Figure/Fall_Gender_prediction.jpg" width="400" /> 
 </p>
 
 <p float="left">
-  <img src="/Figure/Spring_Race_prediction.jpg" width="500" />
-  <img src="/Figure/Fall_Race_prediction.jpg" width="500" /> 
+  <img src="/Figure/Spring_Race_prediction.jpg" width="400" />
+  <img src="/Figure/Fall_Race_prediction.jpg" width="400" /> 
 </p>
 
 <p float="left">
-  <img src="/Figure/Spring_Undergrad_prediction.jpg" width="500" />
-  <img src="/Figure/Fall_Undergrad_prediction.jpg" width="500" /> 
+  <img src="/Figure/Spring_Undergrad_prediction.jpg" width="400" />
+  <img src="/Figure/Fall_Undergrad_prediction.jpg" width="400" /> 
 </p>
 
 | **Population**   | Spring 2025     | Spring 2026       | Spring 2027 | Fall 2025     | Fall 2026       | Fall 2027 |
@@ -69,8 +69,8 @@ Nook is located on a large campus with an enrollment of 47,980 in 2024. Besides,
 <h4 id="#International-Students">International students data</h4>
 
 <p float="left">
-  <img src="/Figure/Spring_Country_prediction.jpg" width="500" />
-  <img src="/Figure/Fall_Country_prediction.jpg" width="500" /> 
+  <img src="/Figure/Spring_Country_prediction.jpg" width="400" />
+  <img src="/Figure/Fall_Country_prediction.jpg" width="400" /> 
 </p>
 
 | **Population**   | Spring 2025     | Spring 2026       | Spring 2027 |  Fall 2025     | Fall 2026       | Fall 2027 |
