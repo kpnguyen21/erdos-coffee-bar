@@ -133,7 +133,7 @@ To better predict customer behavior, we incorporated national statistics on **al
 - **Wine**: 29% of drinkers prefer wine.
 - **Spirits**: 31% of drinkers prefer spirits.
 
-We applied these probabilities to our estimates for alcohol consumers at the University of Houston to determine the expected number of customers for each category.
+We applied these probabilities to our estimates for alcohol consumers to determine the expected number of customers for each category.
 
 #### **Estimated Distribution of Alcohol Consumers by Beverage Type**
 
