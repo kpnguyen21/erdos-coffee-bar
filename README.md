@@ -38,11 +38,55 @@ Nook is located on a large campus with an enrollment of 47,980 in 2024. Besides,
 
 ---
 
-<h3 id="#University-of-Houston-students">University of Houston students data</h3>
+<h4 id="#University-of-Houston-students">University of Houston students data</h4>
+
+<p float="left">
+  <img src="/Figure/Spring_Gender_prediction.jpg" width="500" />
+  <img src="/Figure/Fall_Gender_prediction.jpg" width="500" /> 
+</p>
+
+<p float="left">
+  <img src="/Figure/Spring_Race_prediction.jpg" width="500" />
+  <img src="/Figure/Fall_Race_prediction.jpg" width="500" /> 
+</p>
+
+<p float="left">
+  <img src="/Figure/Spring_Undergrad_prediction.jpg" width="500" />
+  <img src="/Figure/Fall_Undergrad_prediction.jpg" width="500" /> 
+</p>
+
+| **Population**   | Spring 2025     | Spring 2026       | Spring 2027 | Fall 2025     | Fall 2026       | Fall 2027 |
+|------------------|-----------------|-------------------|-------------| -----------------|-------------------|-------------|
+| Male | 21,290 | 22,243 | 23,832 | 23,931 | 25,796 | 28,749 |
+| Female | 22,751 | 22,838 | 23,006 | 26,014 | 27,960 | 31,196 |
+| White | 7,660 | 7,336 | 7,283 | 8,521 | 9,141 | 10,614 |
+| Hispanic | 15,157 | 16,393 | 18,566 | 17,771 | 20,548 | 25,194 |
+| African American | 4,990 | 5,104 | 5,168 | 6,128 | 6,836 | 7,844 |
+| Asian American | 8,893 | 7,770 | 5,890 | 9,820 | 9,205 | 8,247 |
+| Undergraduate Male | 17,092 | 18,359 | 20,702 | 20,080 | 23,058 | 28,036 |
+| Undergraduate Female | 18,332 | 19,088 | 20,408 | 21,347 | 23,815 | 27,919 |
+
+<h4 id="#International-Students">International students data</h4>
+
+<p float="left">
+  <img src="/Figure/Spring_Country_prediction.jpg" width="500" />
+  <img src="/Figure/Fall_Country_prediction.jpg" width="500" /> 
+</p>
+
+| **Population**   | Spring 2025     | Spring 2026       | Spring 2027 |  Fall 2025     | Fall 2026       | Fall 2027 |
+|------------------|-----------------|-------------------|-------------| -----------------|-------------------|-------------|
+| China | 1,028 | 1,397 | 1,926 | 1,145 | 1,346 | 1,561 |
+| Vietnam | 232 | 156 | 74 | 284 | 281 | 327 |
+| Nigeria | 207 | 202 | 165 | 244 | 261 | 264 |
+
+
 
 ---
 
-
 <h3 id="Market Analysis">Market Analysis</h3>
+
+<p float="center">
+  <img src="/Figure/output.png" width="1000" />
+</p>
 
 We obtained enrollment data between Spring 2014 and Fall 2024 from [The University of Houston website](https://www.uh.edu/ir/reports/statistical-handbook/student-enrollment/).
