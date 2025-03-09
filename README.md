@@ -13,10 +13,11 @@ Erdos UX Research - Spring 2025
             <li><a href="#International-Students">International Student Analysis</a></li>
             <li><a href="#Predicting-consumers">Predicting alcohol consumers from the University of Houston</a></li>
         </ul>
-    <li><a href="#Market-Analysis">Market Analysis</a>
-    <li><a href="#Cost">Cost of Diversification</a>
-    <li><a href="#Risk-Opportunity">Risk/ Opportunity</a>
-    <li><a href="#Code-Description">Code Description</a>
+    <li><a href="#Market-Analysis">Market Analysis</a></li>
+    <li><a href="#Cost">Cost of Diversification</a></li>
+    <li><a href="#Risk-Opportunity">Risk/ Opportunity</a></li>
+    <li><a href="#Resource">Resource</a></li>
+    <li><a href="#Code-Description">Code Description</a></li>
 </ul>
 
 ---
@@ -66,21 +67,85 @@ We obtained enrollment data between Spring 2014 and Fall 2024 from [The Universi
 </p>
 
 <table>
+  <tr>
+    <th rowspan="2">Population</th>
+    <th colspan="3">Spring</th>
+    <th colspan="3">Fall</th>
+  </tr>
+  <tr>
+    <th>2025</th>
+      <th>2026</th>
+      <th>2027</th>
+    <th>2025</th>
+      <th>2026</th>
+      <th>2027</th>
+</tr>
     <tr>
-      <td colspan="3">A</td>
-      <td>B</td>
+        <td>Male</td>
+        <td>21,290</td>
+        <td>22,243</td>
+        <td>23,832</td>
+        <td>23,931</td>
+        <td>25,796</td>
+        <td>28,749</td>
     </tr>
     <tr>
-      <td>C</td>
-      <td colspan="3">B</td>
+        <td>Female</td>
+        <td>22,751</td>
+        <td>22,838</td>
+        <td>23,006</td>
+        <td>26,014</td>
+        <td>27,960</td>
+        <td>31,196</td>
     </tr>
     <tr>
-      <td colspan="2">C</td>
-      <td>D</td>
-      <td>E</td>
+        <td>White</td>
+        <td>7,660</td>
+        <td>7,336</td>
+        <td>7,283</td>
+        <td>8,521</td>
+        <td>9,141</td>
+        <td>10,614</td>
     </tr>
-  </table>
+    <tr>
+        <td>African American</td>
+        <td>4,990</td>
+        <td>5,104</td>
+        <td>5,168</td>
+        <td>6,128</td>
+        <td>6,836</td>
+        <td>7,844</td>
+    </tr>
+    <tr>
+        <td>Asian American</td>
+        <td>8,893</td>
+        <td>7,770</td>
+        <td>5,890</td>
+        <td>9,820</td>
+        <td>9,205</td>
+        <td>8,247</td>
+    </tr>
+    <tr>
+        <td>Undergraduate Male</td>
+        <td>17,092</td>
+        <td>18,359</td>
+        <td>20,702</td>
+        <td>20,080</td>
+        <td>23,058</td>
+        <td>28,036</td>
+    </tr>
+    <tr>
+        <td>Undergraduate Female</td>
+        <td>18,332</td>
+        <td>19,088</td>
+        <td>20,408</td>
+        <td>21,347</td>
+        <td>23,815</td>
+        <td>27,919</td>
+    </tr>
+</table>
 
+<!--
 | **Population**       | Spring 2025 | Spring 2026 | Spring 2027 | Fall 2025 | Fall 2026 | Fall 2027 |
 | -------------------- | ----------- | ----------- | ----------- | --------- | --------- | --------- |
 | Male                 | 21,290      | 22,243      | 23,832      | 23,931    | 25,796    | 28,749    |
@@ -91,7 +156,7 @@ We obtained enrollment data between Spring 2014 and Fall 2024 from [The Universi
 | Asian American       | 8,893       | 7,770       | 5,890       | 9,820     | 9,205     | 8,247     |
 | Undergraduate Male   | 17,092      | 18,359      | 20,702      | 20,080    | 23,058    | 28,036    |
 | Undergraduate Female | 18,332      | 19,088      | 20,408      | 21,347    | 23,815    | 27,919    |
-
+-->
 <h4 id="International-Students">International students data</h4>
 
 <p float="left">
@@ -99,12 +164,56 @@ We obtained enrollment data between Spring 2014 and Fall 2024 from [The Universi
   <img src="/Figure/Fall_Country_prediction.jpg" width="400" /> 
 </p>
 
+<table>
+  <tr>
+    <th rowspan="2">Population</th>
+    <th colspan="3">Spring</th>
+    <th colspan="3">Fall</th>
+  </tr>
+  <tr>
+    <th>2025</th>
+      <th>2026</th>
+      <th>2027</th>
+    <th>2025</th>
+      <th>2026</th>
+      <th>2027</th>
+</tr>
+    <tr>
+        <td>China</td>
+        <td>1,028</td>
+        <td>1,397</td>
+        <td>1,926</td>
+        <td>1,145</td>
+        <td>1,346</td>
+        <td>1,561</td>
+    </tr>
+    <tr>
+        <td>Vietnam</td>
+        <td>232</td>
+        <td>156</td>
+        <td>74</td>
+        <td>284</td>
+        <td>281</td>
+        <td>327</td>
+    </tr>
+    <tr>
+        <td>Nigeria</td>
+        <td>207</td>
+        <td>202</td>
+        <td>165</td>
+        <td>244</td>
+        <td>261</td>
+        <td>264</td>
+    </tr>
+</table>
+
+<!--
 | **Population** | Spring 2025 | Spring 2026 | Spring 2027 | Fall 2025 | Fall 2026 | Fall 2027 |
 | -------------- | ----------- | ----------- | ----------- | --------- | --------- | --------- |
 | China          | 1,028       | 1,397       | 1,926       | 1,145     | 1,346     | 1,561     |
 | Vietnam        | 232         | 156         | 74          | 284       | 281       | 327       |
 | Nigeria        | 207         | 202         | 165         | 244       | 261       | 264       |
-
+-->
 <h4 id="Predicting-consumers">Predicting alcohol consumers from the University of Houston</h4>
 
 <p float="center">
@@ -140,6 +249,7 @@ $$ P(\text{Black men drinking}) = 0.52$$
 $$ P(\text{Black women drinking}) = 0.48$$
 
 ---
+<h3 id="Market-Analysis">Market Analysis</h3>
 
 ### **Alcohol Preferences (Beer, Wine, Spirits)**
 
@@ -153,20 +263,20 @@ We applied these probabilities to our estimates for alcohol consumers to determi
 
 #### **Estimated Distribution of Alcohol Consumers by Beverage Type**
 
+<!--
 <p float="center">
   <img src="/Figure/beer_wine_spirits_distribution.png" width="1000" />
+</p>
+-->
+<p float="center">
+  <img src="/Figure/spring_preference.jpg" width="1000" />
+  <img src="/Figure/fall_preference.jpg" width="1000" />
 </p>
 
 ---
 
-### **Sources:**
 
-- National Institute on Alcohol Abuse and Alcoholism (NIAAA)
-- Haitao Zhang, W. June Ruan, S. Patricia Chou, Tulshi D. Saha, Amy Z. Fan, Boji Huang, Aaron M. White, _Exploring Patterns of Alcohol Use and Alcohol Use Disorder Among Asian Americans with a Finer Lens_, Drug and Alcohol Dependence, Volume 257, 2024.
-- [Percentage of Americans Drinking Alcohol](https://news.gallup.com/poll/467507/percentage-americans-drink-alcohol.aspx)
-- [Young Adults' Alcohol Consumption Trends](https://news.gallup.com/poll/648413/alcohol-consumption-increasingly-viewed-unhealthy.aspx)
-
-<h3 id="Market-Analysis">Market Analysis</h3>
+---
 
 <h3 id="Cost">Cost of Diversification</h3>
 
@@ -181,6 +291,13 @@ The new Nook Café requires additional staffing of six workers to man the café 
 A Nook Café, a hybrid business serving coffee and alcoholic beverages, requires promotion. Thus, the management may need to spend $4,925 to create business awareness. The promotional effort will include signage, rebranding, advertising, and promotions. In addition to marketing and branding costs, the management needs to set aside funds for ongoing costs, which will include insurance premiums and other miscellaneous expenses estimated at $7,880. The cost breakdown explains the estimations in more detail.
 
 ---
+
+<h3 id="Resource">Resource</h3>
+
+- National Institute on Alcohol Abuse and Alcoholism (NIAAA)
+- Haitao Zhang, W. June Ruan, S. Patricia Chou, Tulshi D. Saha, Amy Z. Fan, Boji Huang, Aaron M. White, _Exploring Patterns of Alcohol Use and Alcohol Use Disorder Among Asian Americans with a Finer Lens_, Drug and Alcohol Dependence, Volume 257, 2024.
+- [Percentage of Americans Drinking Alcohol](https://news.gallup.com/poll/467507/percentage-americans-drink-alcohol.aspx)
+- [Young Adults' Alcohol Consumption Trends](https://news.gallup.com/poll/648413/alcohol-consumption-increasingly-viewed-unhealthy.aspx)
 
 <h3 id="Code-Description">Code Description</h3>
 
