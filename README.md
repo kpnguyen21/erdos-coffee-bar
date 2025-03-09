@@ -1,5 +1,4 @@
 # Market Research on Coffee/ Bar
-
 Erdos UX Research - Spring 2025
 
 <h2 id="Table-of-Contents">Table of Contents</h2>
@@ -46,8 +45,7 @@ Nook is located on a large campus with an enrollment of 47,980 in 2024. Besides,
 
 <h3 id="Market-Size">Market Size Analysis</h3>
 
-We obtained enrollment data between Spring 2014 and Fall 2024 from [The University of Houston website](https://www.uh.edu/ir/reports/statistical-handbook/student-enrollment/).
-
+We obtained enrollment data between Spring 2014 and Fall 2024 from [The University of Houston website](https://www.uh.edu/ir/reports/statistical-handbook/student-enrollment/). 
 <h4 id="University-of-Houston-students">University of Houston students data</h4>
 
 <p float="left">
@@ -65,16 +63,16 @@ We obtained enrollment data between Spring 2014 and Fall 2024 from [The Universi
   <img src="/Figure/Fall_Undergrad_prediction.jpg" width="400" /> 
 </p>
 
-| **Population**       | Spring 2025 | Spring 2026 | Spring 2027 | Fall 2025 | Fall 2026 | Fall 2027 |
-| -------------------- | ----------- | ----------- | ----------- | --------- | --------- | --------- |
-| Male                 | 21,290      | 22,243      | 23,832      | 23,931    | 25,796    | 28,749    |
-| Female               | 22,751      | 22,838      | 23,006      | 26,014    | 27,960    | 31,196    |
-| White                | 7,660       | 7,336       | 7,283       | 8,521     | 9,141     | 10,614    |
-| Hispanic             | 15,157      | 16,393      | 18,566      | 17,771    | 20,548    | 25,194    |
-| African American     | 4,990       | 5,104       | 5,168       | 6,128     | 6,836     | 7,844     |
-| Asian American       | 8,893       | 7,770       | 5,890       | 9,820     | 9,205     | 8,247     |
-| Undergraduate Male   | 17,092      | 18,359      | 20,702      | 20,080    | 23,058    | 28,036    |
-| Undergraduate Female | 18,332      | 19,088      | 20,408      | 21,347    | 23,815    | 27,919    |
+| **Population**   | Spring 2025     | Spring 2026       | Spring 2027 | Fall 2025     | Fall 2026       | Fall 2027 |
+|------------------|-----------------|-------------------|-------------| -----------------|-------------------|-------------|
+| Male | 21,290 | 22,243 | 23,832 | 23,931 | 25,796 | 28,749 |
+| Female | 22,751 | 22,838 | 23,006 | 26,014 | 27,960 | 31,196 |
+| White | 7,660 | 7,336 | 7,283 | 8,521 | 9,141 | 10,614 |
+| Hispanic | 15,157 | 16,393 | 18,566 | 17,771 | 20,548 | 25,194 |
+| African American | 4,990 | 5,104 | 5,168 | 6,128 | 6,836 | 7,844 |
+| Asian American | 8,893 | 7,770 | 5,890 | 9,820 | 9,205 | 8,247 |
+| Undergraduate Male | 17,092 | 18,359 | 20,702 | 20,080 | 23,058 | 28,036 |
+| Undergraduate Female | 18,332 | 19,088 | 20,408 | 21,347 | 23,815 | 27,919 |
 
 <h4 id="International-Students">International students data</h4>
 
@@ -83,11 +81,11 @@ We obtained enrollment data between Spring 2014 and Fall 2024 from [The Universi
   <img src="/Figure/Fall_Country_prediction.jpg" width="400" /> 
 </p>
 
-| **Population** | Spring 2025 | Spring 2026 | Spring 2027 | Fall 2025 | Fall 2026 | Fall 2027 |
-| -------------- | ----------- | ----------- | ----------- | --------- | --------- | --------- |
-| China          | 1,028       | 1,397       | 1,926       | 1,145     | 1,346     | 1,561     |
-| Vietnam        | 232         | 156         | 74          | 284       | 281       | 327       |
-| Nigeria        | 207         | 202         | 165         | 244       | 261       | 264       |
+| **Population**   | Spring 2025     | Spring 2026       | Spring 2027 |  Fall 2025     | Fall 2026       | Fall 2027 |
+|------------------|-----------------|-------------------|-------------| -----------------|-------------------|-------------|
+| China | 1,028 | 1,397 | 1,926 | 1,145 | 1,346 | 1,561 |
+| Vietnam | 232 | 156 | 74 | 284 | 281 | 327 |
+| Nigeria | 207 | 202 | 165 | 244 | 261 | 264 |
 
 <h4 id="Predicting-consumers">Predicting alcohol consumers from the University of Houston</h4>
 
@@ -97,87 +95,9 @@ We obtained enrollment data between Spring 2014 and Fall 2024 from [The Universi
 
 ---
 
-# Market Research on Coffee/ Bar
-
-Erdos UX Research - Spring 2025
-
-<h2 id="Table-of-Contents">Table of Contents</h2>
-
-<ul>
-    <li><a href="#Background">Scenario/ Background</a></li>
-    <li><a href="#Problem">Define the problem</a></li>
-    <li><a href="#Market-Size">Market Size Analysis</a>
-        <ul>
-            <li><a href="#University-of-Houston-students">Student Analysis</a></li>
-            <li><a href="#International-Students">International Student Analysis</a></li>
-            <li><a href="#Predicting-consumers">Predicting alcohol consumers from the University of Houston</a></li>
-        </ul>
-    <li><a href="#Market-Analysis">Market Analysis</a>
-    <li><a href="#Cost">Cost of Diversification</a>
-    <li><a href="#Risk-Opportunity">Risk/ Opportunity</a>
-    <li><a href="#Code-Description">Code Description</a>
-</ul>
+<h3 id="Market-Analysis">Market Analysis</h3>
 
 ---
-
-<h3 id="Predicting-consumers">Predicting alcohol consumers from the University of Houston</h3>
-
-<p float="center">
-  <img src="/Figure/output.png" width="1000" />
-</p>
-
-We took into consideration preferences for different races, genders, and beverage types. The following probabilities were applied based on 2022 statistics:
-
-### **General Drinking Probabilities:**
-
-$$ P(\text{men drinking}) = 0.66 $$
-$$ P(\text{women drinking}) = 0.61 $$
-$$ P(\text{people between 18 to 29 drinking}) = 0.60$$
-$$ P(\text{people between 21 to 29 drinking}) = 0.71$$
-$$ P(\text{people between 30 to 49 drinking}) = 0.70$$
-
-### **Drinking Probabilities by Race & Gender:**
-
-$$ P(\text{White drinking}) = 0.68$$
-$$ P(\text{Black drinking}) = 0.50$$
-$$ P(\text{Hispanic drinking}) = 0.59$$
-$$ P(\text{Asian Americans drinking}) = 0.318 $$
-
-$$ P(\text{White men drinking}) = 0.68$$
-$$ P(\text{White women drinking}) = 0.68$$
-
-$$ P(\text{Hispanic men drinking}) = 0.6$$
-$$ P(\text{Hispanic women drinking}) = 0.57$$
-
-$$ P(\text{Black men drinking}) = 0.52$$
-$$ P(\text{Black women drinking}) = 0.48$$
-
----
-
-### **Alcohol Preferences (Beer, Wine, Spirits)**
-
-To better predict customer behavior, we incorporated national statistics on **alcohol preferences**:
-
-- **Beer**: 37% of drinkers prefer beer.
-- **Wine**: 29% of drinkers prefer wine.
-- **Spirits**: 31% of drinkers prefer spirits.
-
-We applied these probabilities to our estimates for alcohol consumers at the University of Houston to determine the expected number of customers for each category.
-
-#### **Estimated Distribution of Alcohol Consumers by Beverage Type**
-
-<p float="center">
-  <img src="/Figure/beer_wine_spirits_distribution.png" width="1000" />
-</p>
-
----
-
-### **Sources:**
-
-- National Institute on Alcohol Abuse and Alcoholism (NIAAA)
-- Haitao Zhang, W. June Ruan, S. Patricia Chou, Tulshi D. Saha, Amy Z. Fan, Boji Huang, Aaron M. White, _Exploring Patterns of Alcohol Use and Alcohol Use Disorder Among Asian Americans with a Finer Lens_, Drug and Alcohol Dependence, Volume 257, 2024.
-- [Percentage of Americans Drinking Alcohol](https://news.gallup.com/poll/467507/percentage-americans-drink-alcohol.aspx)
-- [Young Adults' Alcohol Consumption Trends](https://news.gallup.com/poll/648413/alcohol-consumption-increasingly-viewed-unhealthy.aspx)
 
 <h3 id="Cost">Cost of Diversification</h3>
 
@@ -198,3 +118,7 @@ A Nook Café, a hybrid business serving coffee and alcoholic beverages, requires
 ---
 
 <h3 id="Risk-Opportunity">Risk/ Opportunity</h3>
+
+
+
+
