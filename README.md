@@ -65,6 +65,22 @@ We obtained enrollment data between Spring 2014 and Fall 2024 from [The Universi
   <img src="/Figure/Fall_Undergrad_prediction.jpg" width="400" /> 
 </p>
 
+<table>
+    <tr>
+      <td colspan="3">A</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td colspan="3">B</td>
+    </tr>
+    <tr>
+      <td colspan="2">C</td>
+      <td>D</td>
+      <td>E</td>
+    </tr>
+  </table>
+
 | **Population**       | Spring 2025 | Spring 2026 | Spring 2027 | Fall 2025 | Fall 2026 | Fall 2027 |
 | -------------------- | ----------- | ----------- | ----------- | --------- | --------- | --------- |
 | Male                 | 21,290      | 22,243      | 23,832      | 23,931    | 25,796    | 28,749    |
