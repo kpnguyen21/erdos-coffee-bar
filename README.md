@@ -15,7 +15,7 @@ Erdos UX Research - Spring 2025
         </ul>
     <li><a href="#Market-Analysis">Market Analysis</a></li>
     <li><a href="#Cost">Cost of Diversification</a></li>
-    <li><a href="#Risk-Opportunity">Risk/ Opportunity</a></li>
+    <li><a href="#Revenue-Forecast">Sales & Revenue Forecast</a></li>
     <li><a href="#Resource">Resource</a></li>
     <li><a href="#Code-Description">Code Description</a></li>
 </ul>
@@ -216,12 +216,6 @@ We obtained enrollment data between Spring 2014 and Fall 2024 from [The Universi
 -->
 <h4 id="Predicting-consumers">Predicting alcohol consumers from the University of Houston</h4>
 
-<p float="center">
-  <img src="/Figure/output.png" width="1000" />
-</p>
-
----
-
 We took into consideration preferences for different races, genders, and beverage types. The following probabilities were applied based on 2022 statistics:
 
 ### **General Drinking Probabilities:**
@@ -247,6 +241,10 @@ $$ P(\text{Hispanic women drinking}) = 0.57$$
 
 $$ P(\text{Black men drinking}) = 0.52$$
 $$ P(\text{Black women drinking}) = 0.48$$
+
+<p float="center">
+  <img src="/Figure/output.png" width="1000" />
+</p>
 
 ---
 <h3 id="Market-Analysis">Market Analysis</h3>
@@ -275,9 +273,6 @@ We applied these probabilities to our estimates for alcohol consumers to determi
 
 ---
 
-
----
-
 <h3 id="Cost">Cost of Diversification</h3>
 
 The diversification project for Nook Café to enter the alcohol market is estimated to cost $171,985 in the first year. The cost includes licensing and permits, renovations and equipment, inventory and supplies, staffing and training, marketing and branding, and ongoing costs. Although Nook Café is an existing business known for serving coffee to customers, the drive for diversification into alcohol will require the acquisition of a liquor license, a business permit modification to accommodate the new business line, and training and certification for six new employees to operate the bar in the evenings and nights. The cost for licensing and permits is an estimated $7,500.
@@ -289,6 +284,234 @@ The newly diversified Nook Café will offer alcoholic beverages and side drinks 
 The new Nook Café requires additional staffing of six workers to man the café in the evenings and nights. We estimate three workers to handle a day's shift at a time. We estimate the new workers' training and annual wages at $132,290. We recommend that Nook Café pay a wage above the state's minimum of $7.25.
 
 A Nook Café, a hybrid business serving coffee and alcoholic beverages, requires promotion. Thus, the management may need to spend $4,925 to create business awareness. The promotional effort will include signage, rebranding, advertising, and promotions. In addition to marketing and branding costs, the management needs to set aside funds for ongoing costs, which will include insurance premiums and other miscellaneous expenses estimated at $7,880. The cost breakdown explains the estimations in more detail.
+
+<table>
+  <tr>
+    <th colspan="4">Estimated Cost for Diversification into Bar - First Year</th>
+  </tr>
+  <tr>
+      <th colspan="2">Licensing and Permit</th>
+</tr>
+    <tr>
+        <td>Liquor license</td>
+        <td>3,500</td>
+    </tr>
+   <tr>
+        <td>Business Permit Modification</td>
+        <td>1,000</td>
+    </tr>
+    <tr>
+        <td>Training & certification (6 employees)</td>
+        <td>3,000</td>
+    </tr>
+    <tr>
+        <th>Subtotal</th>
+        <th>7,500</th>
+    </tr>
+    <tr>
+      <th colspan="2">Renovations & Equipment</th>
+</tr>
+    <tr>
+        <td>Bar Setup</td>
+        <td>7,500</td>
+    </tr>
+   <tr>
+        <td>Draft Beer System</td>
+        <td>2,000</td>
+    </tr>
+    <tr>
+        <td>Wine Storage & Refrigeration</td>
+        <td>3,150</td>
+    </tr>
+    <tr>
+        <th>Subtotal</th>
+        <th>12,650</th>
+    </tr>
+    <tr>
+      <th colspan="2">Inventory & Suppliers</th>
+    </tr>
+    <tr>
+        <td>Initial Alcohol Stock (beer, wine & spirits)</td>
+        <td>5,000</td>
+    </tr>
+   <tr>
+        <td>Mixers, Garnishes & Supplies</td>
+        <td>1,740</td>
+    </tr>
+    <tr>
+        <th>Subtotal</th>
+        <th>6,740</th>
+    </tr>
+    <tr>
+      <th colspan="2">Staffing & Training</th>
+    </tr>
+    <tr>
+        <td>Bartenders/ servers' salary (3 workers*84 hours/week* $10*52)</td>
+        <td>131,040</td>
+    </tr>
+   <tr>
+        <td>Supplementary Training Cost</td>
+        <td>1,250</td>
+    </tr>
+    <tr>
+        <th>Subtotal</th>
+        <th>132,290</th>
+    </tr>
+    <tr>
+      <th colspan="2">Marketing & Branding</th>
+    </tr>
+    <tr>
+        <td>Signage & Rebranding</td>
+        <td>2,755</td>
+    </tr>
+   <tr>
+        <td>Advertising & Promotions</td>
+        <td>2,170</td>
+    </tr>
+    <tr>
+        <th>Subtotal</th>
+        <th>4,925</th>
+    </tr>
+    <tr>
+      <th colspan="2">Ongoing Cost</th>
+    </tr>
+    <tr>
+        <td>Insurance Premium</td>
+        <td>2,880</td>
+    </tr>
+   <tr>
+        <td>Miscellaneous</td>
+        <td>5,000</td>
+    </tr>
+    <tr>
+        <th>Subtotal</th>
+        <th>7,880</th>
+    </tr>
+    <tr>
+      <th>Grand Total</th>
+        <th>171,985</th>
+    </tr>
+</table>
+
+
+---
+
+<h3 id="Revenue-Forecast">Sales & Revenue Forecast</h3>
+
+Alcohol sales at Nook Café will differ between weekdays and weekends. We envision peak weekend sales. We expect Nook Café to gross $383,200 and $420,420 in the first and second years, respectively, with an anticipated 10% business growth in the second year. The estimated profits are $229,320 and $252,252 for the first and second years, respectively. The sales and revenue forecasts highlight the new venture’s prospects. Observations of surrounding cafés indicate that an average of ten patrons walk in to buy alcohol in the evenings. We extrapolate this figure for Nook Café’s forecast.
+
+<table>
+  <tr>
+    <th colspan="4">Sales & Revenue Forecast</th>
+  </tr>
+  <tr>
+      <th>Weekdays Sales (Monday - Thursday)</th>
+    <th>Year 1</th>
+      <th>Year 2(*10%)</th>
+      <th>Total 2 years</th>
+</tr>
+    <tr>
+        <td>Customers per hour</td>
+        <td>10</td>
+        <td>11</td>
+        <td>21</td>
+    </tr>
+    <tr>
+        <td>Customers per evening</td>
+        <td>70</td>
+        <td>77</td>
+        <td>147</td>
+    </tr>
+    <tr>
+        <td>Average drinks per customer</td>
+        <td>1.5</td>
+        <td>1.65</td>
+        <td>3.15</td>
+    </tr>
+    <tr>
+        <td>Total drink sale per evening</td>
+        <td>105</td>
+        <td>115.5</td>
+        <td>220.5</td>
+    </tr>
+    <tr>
+        <td>Revenue per day (Total drink sale per evening*7)</td>
+        <td>735</td>
+        <td>808.5</td>
+        <td>1,543.5</td>
+    </tr>
+    <tr>
+        <td>Sales per week (Revenue per day*4)</td>
+        <td>2,940</td>
+        <td>3,234</td>
+        <td>6,174</td>
+    </tr>
+    <tr>
+        <td>Weekdays annual revenue</td>
+        <td><b>152,880</b></td>
+        <td><b>168,168</b></td>
+        <td><b>321,048</b></td>
+    </tr>
+    <th>Weekend Sales (Friday - Sunday)</th>
+    <th>Year 1</th>
+      <th>Year 2(*10%)</th>
+      <th>Total 2 years</th>
+</tr>
+    <tr>
+        <td>Customers per hour</td>
+        <td>20</td>
+        <td>22</td>
+        <td>42</td>
+    </tr>
+    <tr>
+        <td>Customers per evening</td>
+        <td>140</td>
+        <td>154</td>
+        <td>294</td>
+    </tr>
+    <tr>
+        <td>Average drinks per customer</td>
+        <td>1.5</td>
+        <td>1.65</td>
+        <td>3.15</td>
+    </tr>
+    <tr>
+        <td>Total drink sale per evening</td>
+        <td>210</td>
+        <td>231</td>
+        <td>441</td>
+    </tr>
+    <tr>
+        <td>Revenue per day (Total drink sale per evening*7)</td>
+        <td>1,470</td>
+        <td>1,617</td>
+        <td>3,087</td>
+    </tr>
+    <tr>
+        <td>Sales per week (Revenue per day*3)</td>
+        <td>4,410</td>
+        <td>4,851</td>
+        <td>9,261</td>
+    </tr>
+    <tr>
+        <td>Weekend annual revenue</td>
+        <td><b>229,320</b></td>
+        <td><b>252,252</b></td>
+        <td><b>481,572</b></td>
+    </tr>
+    <tr>
+        <th>Total</th>
+        <td><b>382,200</b></td>
+        <td><b>420,420</b></td>
+        <td><b>802,620</b></td>
+    </tr>
+    <tr>
+        <th>Estimated Profit</th>
+        <td><b>229,320</b></td>
+        <td><b>252,252</b></td>
+        <td><b>481,572</b></td>
+    </tr>
+</table>
 
 ---
 
