@@ -6,11 +6,14 @@ Erdos UX Research - Spring 2025
 <ul>
     <li><a href="#Background">Scenario/ Background</a></li>
     <li><a href="#Problem">Define the problem</a></li>
-    <li><a href="#Market-Analysis">Market Analysis</a>
+    <li><a href="#Market-Size">Market Size Analysis</a>
         <ul>
             <li><a href="#University-of-Houston-students">Student Analysis</a></li>
             <li><a href="#International-Students">International Student Analysis</a></li>
+            <li><a href="#Predicting-consumers">Predicting alcohol consumers from the University of Houston</a></li>
         </ul>
+    <li><a href="#Market-Analysis">Market Analysis</a>
+    <li><a href="#Risk-Opportunity">Risk/ Opportunity</a>
 </ul>
 
 ---
@@ -38,7 +41,10 @@ Nook is located on a large campus with an enrollment of 47,980 in 2024. Besides,
 
 ---
 
-<h4 id="#University-of-Houston-students">University of Houston students data</h4>
+<h3 id="Market-Size">Market Size Analysis</h3>
+
+We obtained enrollment data between Spring 2014 and Fall 2024 from [The University of Houston website](https://www.uh.edu/ir/reports/statistical-handbook/student-enrollment/). 
+<h4 id="University-of-Houston-students">University of Houston students data</h4>
 
 <p float="left">
   <img src="/Figure/Spring_Gender_prediction.jpg" width="400" />
@@ -66,7 +72,7 @@ Nook is located on a large campus with an enrollment of 47,980 in 2024. Besides,
 | Undergraduate Male | 17,092 | 18,359 | 20,702 | 20,080 | 23,058 | 28,036 |
 | Undergraduate Female | 18,332 | 19,088 | 20,408 | 21,347 | 23,815 | 27,919 |
 
-<h4 id="#International-Students">International students data</h4>
+<h4 id="International-Students">International students data</h4>
 
 <p float="left">
   <img src="/Figure/Spring_Country_prediction.jpg" width="400" />
@@ -79,14 +85,20 @@ Nook is located on a large campus with an enrollment of 47,980 in 2024. Besides,
 | Vietnam | 232 | 156 | 74 | 284 | 281 | 327 |
 | Nigeria | 207 | 202 | 165 | 244 | 261 | 264 |
 
-
-
----
-
-<h3 id="Market Analysis">Market Analysis</h3>
+<h4 id="Predicting-consumers">Predicting alcohol consumers from the University of Houston</h4>
 
 <p float="center">
   <img src="/Figure/output.png" width="1000" />
 </p>
 
-We obtained enrollment data between Spring 2014 and Fall 2024 from [The University of Houston website](https://www.uh.edu/ir/reports/statistical-handbook/student-enrollment/).
+---
+
+<h3 id="Market-Analysis">Market Analysis</h3>
+
+---
+
+<h3 id="Risk-Opportunity">Risk/ Opportunity</h3>
+
+
+
+
