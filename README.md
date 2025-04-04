@@ -21,6 +21,7 @@ A unique characteristic of the city where Nook Café is located is its limited p
         <ul>
             <li><a href="#University-of-Houston-students">Student Data Analysis</a></li>
             <li><a href="#International-Students">International Student Data Analysis</a></li>
+            <li><a href="#University-of-Houston-faculty">Faculty Data Analysis</a></li>
             <li><a href="#Predicting-consumers">Predicting alcohol consumers from the University of Houston</a></li>
         </ul>
     <li><a href="#Market-Analysis">Market Analysis</a></li>
@@ -62,23 +63,23 @@ We considered the following attributes from [students.csv](https://github.com/kp
 
 `Semester`: Spring, Summer, or Fall, followed by a number indicating the year between 2014 and 2024.
 
-`Total_enrollment`: total student enrollment, including both U.S. students and international students. 
+`Total_enrollment`: the total number of students enrolled, including both U.S. and international students. 
 
-`Male`: number of male students enrolled that semester.
+`Male`: the number of male students enrolled during that semester.
 
-`Female`: number of female students enrolled that semester.
+`Female`: the number of female students enrolled during that semester.
 
-`White`: number of White students enrolled that semester.
+`White`: the number of White students enrolled during that semester.
 
-`Hispanic`: number of Hispanic students enrolled that semester.
+`Hispanic`: the number of Hispanic students enrolled during that semester.
 
-`Asian_American`: number of Asian American students enrolled that semester.
+`Asian_American`: the number of Asian American students enrolled during that semester.
 
-`African_American`: number of African American students enrolled that semester.
+`African_American`: the number of African American students enrolled during that semester.
 
-`Undegrad_Male`: number of male students in undergraduate program enrolled that semester.
+`Undegrad_Male`: the number of male students enrolled in the undergraduate program during that semester.
 
-`Undergrad_Female`: number of female students in undergraduate program enrolled that semester.
+`Undergrad_Female`: the number of female students enrolled in the undergraduate program during that semester.
 
 Prior to Fall 2017, male students were the majority at the University of Houston (see figure below). The solid lines were the student data and the dashed lines were the fit from `polyfit`. Since males are more likely to drink than females, this could indicate that our market size may decrease.
 
@@ -256,6 +257,28 @@ We could not fit the Indian student population, so we excluded India from our pr
 | Vietnam        | 232         | 156         | 74          | 284       | 281       | 327       |
 | Nigeria        | 207         | 202         | 165         | 244       | 261       | 264       |
 -->
+
+<h4 id="University-of-Houston-faculty">Faculty Data analysis</h4>
+
+We considered the following attributes from [faculty.csv](https://github.com/kpnguyen21/erdos-coffee-bar/blob/main/Data/faculty.csv) for our analyses: 
+
+`Year`: Faculty data is organized by year, not by semester.
+
+`Total_faculty`: the total faculty for that year. 
+
+`Male`: the number of male faculty for that year.
+
+`Female`: the number of female faculty for that year.
+
+`African_American`: the number of African American faculty for that year.
+
+`Asian_American`: the number of Asian American faculty for that year.
+
+`Hispanic`: the number of Hispanic faculty for that year.
+
+`White`: the number of White faculty for that year.
+
+
 <h4 id="Predicting-consumers">Predicting alcohol consumers from the University of Houston</h4>
 
 We took into consideration preferences for different races, genders, and beverage types. The following probabilities were applied based on 2022 statistics:
