@@ -47,7 +47,7 @@ Nook Café closes at 5 pm every weekday and 2 pm on weekends. We discovered that
 
 
 <p float="center">
-  <img src="/Figure/Nook_hours.png" width="1000" />
+  <img src="/Figure/Nook_hours.PNG" width="1000" />
 </p>
 
 While it is easy for Nook to enter the alcohol market, it must make extra strategic efforts to achieve competitive differentiation and leverage brand expansion opportunities accompanying diversification into new markets. Since surrounding coffee shops are competing and existing threats, operating in the hybridity of coffee and alcohol, the challenge for Nook is to attain brand and service distinction to draw alcohol consumers and retain them for steady profitability. The apparent question for Nook is how it would stay far away from the madding crowd without losing attraction and patronage.
