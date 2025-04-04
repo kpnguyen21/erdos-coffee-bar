@@ -328,6 +328,15 @@ We considered the following attributes from [faculty.csv](https://github.com/kpn
 
 `White`: the number of White faculty for that year.
 
+| **Population**       | 2025        | 2026        | 2027        |
+| -------------------- | ----------- | ----------- | ----------- | 
+| Male                 | 1,947       | 1,840       | 1,590       |
+| Female               | 1,450       | 1,311       | 1,013       |
+| African American     | 341         | 397         | 474         |
+| Asian American       | 732         | 724         | 648         | 
+| Hispanic             | 347         | 348         | 337         | 
+| White                |       |      |       | 
+
 
 <h4 id="Predicting-consumers">Predicting alcohol consumers from the University of Houston</h4>
 
