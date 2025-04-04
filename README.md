@@ -17,6 +17,7 @@ A unique characteristic of the city where Nook Café is located is its limited p
             <li><a href="#Location">Location</a></li>
             <li><a href="#Predicting-consumers">Predicting alcohol consumers from the University of Houston</a></li>
         </ul>
+    <li><a href="#Customer-Survey">Customer Survey</a>
     <li><a href="#Market-Size">Market Size Analysis</a>
         <ul>
             <li><a href="#University-of-Houston-students">Student Data Analysis</a></li>
@@ -45,12 +46,40 @@ The business reality with Nook Café suggests that we should look beyond the 202
 Nook Café closes at 5 pm every weekday and 2 pm on weekends. We discovered that the competition stays open for extended hours. For example, Cowboy Café, located 3.6 miles from Nook, opens daily between 8 am and 12 am. A challenge for Nook in meeting the competition is that the university does not allow alcohol sales within working hours (9 am – 5 pm). Thus, the option open to Nook is to consider alcohol sales from 5 pm and consider extended opening hours. Our investigation showed that Nook maintains a steady number of patrons during the day but loses them to competition in the tail part of the day. Thus, Nook must achieve improved customer retention in the evening and nighttime.
 
 
+<p float="center">
+  <img src="/Figure/Nook_hours.png" width="1000" />
+</p>
+
 While it is easy for Nook to enter the alcohol market, it must make extra strategic efforts to achieve competitive differentiation and leverage brand expansion opportunities accompanying diversification into new markets. Since surrounding coffee shops are competing and existing threats, operating in the hybridity of coffee and alcohol, the challenge for Nook is to attain brand and service distinction to draw alcohol consumers and retain them for steady profitability. The apparent question for Nook is how it would stay far away from the madding crowd without losing attraction and patronage.
 
 <h4 id='Location'>Location</h4>
 
-Nook is located on a large campus with an enrollment of 47,980 in 2024. Besides, it is located in a city adjudged as the 4th largest city in the US. This geographical location means there are tremendous opportunities within the campus and more significant opportunities outside the campus if Nook taps into these external opportunities. Besides, Nook has the strength of maintaining multiple shops on the big campus and has achieved a strong brand image on campus. It can leverage these strengths to tap into opportunities comprising various activities on campus that attract outside vendors to sell alcohol on campus. For example, the campus welcomes over 1000 guests across all sports divisions during the game season. With Nook's opportunities and strength, it must navigate its proposed entry into the alcoholic market cautiously to tap the benefits of a new market.
+Nook is located on a large campus with an enrollment of 47,980 in 2024. Besides, it is located in a city adjudged as the 4th largest city in the US. This geographical location means there are tremendous opportunities within the campus and more significant opportunities outside the campus if Nook taps into these external opportunities. Besides, Nook has achieved a strong brand image on campus. It can leverage these strengths to tap into opportunities comprising various activities on campus that attract outside vendors to sell alcohol on campus. For example, the campus welcomes over 1000 guests across all sports divisions during the game season. With Nook's opportunities and strength, it must navigate its proposed entry into the alcoholic market cautiously to tap the benefits of a new market.
 
+---
+
+<h3 id="Customer-Survey">Customer Survey</h3>
+
+To investigate the preferences of Nook Café patrons, we conducted a survey asking customers for their thoughts on alcohol.
+
+```
+1. How often do you drink alcohol?
+Never <hspace=5mm> - 1-2 days per week
+
+
+<label>What is your age group?</label>
+    <input type="radio" id="18-25" name="age" value="18-25">
+    <label for="18-25">18-25</label>
+    <input type="radio" id="26-35" name="age" value="26-35">
+    <label for="26-35">26-35</label>
+```
+<label>What is your age group?</label>
+    <input type="radio" id="18-25" name="age" value="18-25">
+    <label for="18-25">18-25</label>
+    <input type="radio" id="26-35" name="age" value="26-35">
+    <label for="26-35">26-35</label>
+
+    
 ---
 
 <h3 id="Market-Size">Market Size Analysis</h3>
@@ -281,12 +310,18 @@ We considered the following attributes from [faculty.csv](https://github.com/kpn
 
 <h4 id="Predicting-consumers">Predicting alcohol consumers from the University of Houston</h4>
 
-We took into consideration preferences for different races, genders, and beverage types. The following probabilities were applied based on 2022 statistics:
+We considered preferences and drinking probabilities across various races, genders, and beverage types. Given the large student population on this college campus, household income levels were deemed less significant. The following probabilities were applied, based on Gallup's 2022 article, [What Percentage of Americans Drink Alcohol?](https://news.gallup.com/poll/467507/percentage-americans-drink-alcohol.aspx).
 
 **General Drinking Probabilities:**
 
+According to Gallup's study, American men, irrespective of race, are more likely to consume alcohol than women. This trend reflects a broader social and cultural pattern, potentially influenced by gender roles, societal expectations, and differences in social behaviors. 
+
 $$ P(\text{men drinking}) = 0.66 $$
 $$ P(\text{women drinking}) = 0.61 $$
+
+Furthermore, the study reveals that the youngest American age group—those aged 18 to 29—are less likely to drink alcohol compared to older age groups. This may be due to stricter enforcement of legal drinking age laws, shifting attitudes toward alcohol consumption among younger generations, or increasing awareness of alcohol's health impacts.
+In contrast, older age groups tend to exhibit a higher probability of drinking, which could be attributed to greater disposable income, established social habits involving alcohol, or the role of alcohol in certain professional or social settings. These patterns highlight the interplay between age, gender, and cultural dynamics in shaping alcohol consumption behaviors in American society.
+
 $$ P(\text{people between 18 to 29 drinking}) = 0.60$$
 $$ P(\text{people between 21 to 29 drinking}) = 0.71$$
 $$ P(\text{people between 30 to 49 drinking}) = 0.70$$
