@@ -43,8 +43,7 @@ The business reality with Nook Café suggests that we should look beyond the 202
 
 <h4 id='Hours'>Business Hours</h4>
 
-Nook Café closes at 5 pm every weekday and 2 pm on weekends. We discovered that the competition stays open for extended hours. For example, Cowboy Café, located 3.6 miles from Nook, opens daily between 8 am and 12 am. A challenge for Nook in meeting the competition is that the university does not allow alcohol sales within working hours (9 am – 5 pm). Thus, the option open to Nook is to consider alcohol sales from 5 pm and consider extended opening hours. Our investigation showed that Nook maintains a steady number of patrons during the day but loses them to competition in the tail part of the day. Thus, Nook must achieve improved customer retention in the evening and nighttime.
-
+Nook Café closes at 5 pm on weekdays and 2 pm on weekends. We discovered that competitors stay open for extended hours; for instance, Cowboy Café, located 3.6 miles from Nook, operates daily from 8 am to 12 am. One challenge for Nook in competing is the university's restriction on alcohol sales during working hours (9 am – 5 pm). Therefore, Nook should consider selling alcohol after 5 pm and extending its operating hours. Google statistics revealed that while Nook maintains a steady number of patrons during the day, it loses them to competitors later in the day. To address this, Nook must focus on improving customer retention during the evening and nighttime hours.
 
 <p float="center">
   <img src="/Figure/Nook_hours.PNG" width="1000" />
@@ -63,6 +62,7 @@ Nook is located on a large campus with an enrollment of 47,980 in 2024. Besides,
 To investigate the preferences of Nook Café patrons, we conducted a survey asking customers for their thoughts on alcohol.
 
 ```
+<form>
 1. How often do you drink alcohol?
 Never <hspace=5mm> - 1-2 days per week
 
@@ -78,8 +78,28 @@ Never <hspace=5mm> - 1-2 days per week
     <label for="18-25">18-25</label>
     <input type="radio" id="26-35" name="age" value="26-35">
     <label for="26-35">26-35</label>
+</form>
 
-    
+<form>
+  <input type="radio" id="html" name="fav_language" value="HTML">
+  <label for="html">HTML</label><br>
+  <input type="radio" id="css" name="fav_language" value="CSS">
+  <label for="css">CSS</label><br>
+  <input type="radio" id="javascript" name="fav_language" value="JavaScript">
+  <label for="javascript">JavaScript</label>
+</form>
+
+<div class="for-form">
+                <p>Which option best describes your current role</p>
+                <select name="role" id="dropdown" class="for-input" required>
+                <option disabled selected value>Select current role</option>
+                <option value="student">Student</option>
+                <option value="job">Full Time Job</option>
+                <option value="learner">Full Time Learner</option>
+                <option value="preferNot">Prefer not to say</option>
+                <option value="other">Other</option>
+                </select>
+            </div>
 ---
 
 <h3 id="Market-Size">Market Size Analysis</h3>
@@ -504,7 +524,7 @@ Alcohol sales at Nook Café will differ between weekdays and weekends. We envisi
     <th colspan="4">Sales & Revenue Forecast</th>
   </tr>
   <tr>
-      <th>Weekdays Sales (Monday - Thursday)</th>
+      <th>Weekday Sales (Monday - Thursday)</th>
     <th>Year 1</th>
       <th>Year 2(*10%)</th>
       <th>Total 2 years</th>
