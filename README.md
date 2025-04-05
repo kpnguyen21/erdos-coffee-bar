@@ -61,45 +61,11 @@ Nook is located on a large campus with an enrollment of 47,980 in 2024. Besides,
 
 To investigate the preferences of Nook Café patrons, we conducted a survey asking customers for their thoughts on alcohol.
 
-```
-<form>
 1. How often do you drink alcohol?
-Never <hspace=5mm> - 1-2 days per week
-
-
-<label>What is your age group?</label>
-    <input type="radio" id="18-25" name="age" value="18-25">
-    <label for="18-25">18-25</label>
-    <input type="radio" id="26-35" name="age" value="26-35">
-    <label for="26-35">26-35</label>
-```
-<label>What is your age group?</label>
-    <input type="radio" id="18-25" name="age" value="18-25">
-    <label for="18-25">18-25</label>
-    <input type="radio" id="26-35" name="age" value="26-35">
-    <label for="26-35">26-35</label>
-</form>
-
-<form>
-  <input type="radio" id="html" name="fav_language" value="HTML">
-  <label for="html">HTML</label><br>
-  <input type="radio" id="css" name="fav_language" value="CSS">
-  <label for="css">CSS</label><br>
-  <input type="radio" id="javascript" name="fav_language" value="JavaScript">
-  <label for="javascript">JavaScript</label>
-</form>
-
-<div class="for-form">
-                <p>Which option best describes your current role</p>
-                <select name="role" id="dropdown" class="for-input" required>
-                <option disabled selected value>Select current role</option>
-                <option value="student">Student</option>
-                <option value="job">Full Time Job</option>
-                <option value="learner">Full Time Learner</option>
-                <option value="preferNot">Prefer not to say</option>
-                <option value="other">Other</option>
-                </select>
-            </div>
+- [ ] Never
+- [x] Once in a while (1-2 days per week)
+- [ ] Pretty often (3-4 days per week)
+- [ ] All the time (5+ days per week)
             
 ---
 
