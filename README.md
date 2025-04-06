@@ -18,6 +18,11 @@ A unique characteristic of the city where Nook Café is located is its limited p
             <li><a href="#Predicting-consumers">Predicting alcohol consumers from the University of Houston</a></li>
         </ul>
     <li><a href="#Customer-Survey">Customer Survey</a>
+        <ul>
+            <li><a href="#About-You">About You</a></li>
+            <li><a href="#Drinking-Habits">Drinking Habits</a></li>
+            <li><a href="#Bar-Experience">Bar Experiences & Preferences</a></li>
+        </ul>
     <li><a href="#Market-Size">Market Size Analysis</a>
         <ul>
             <li><a href="#University-of-Houston-students">Student Data Analysis</a></li>
@@ -59,13 +64,93 @@ Nook is located on a large campus with an enrollment of 47,980 in 2024. Besides,
 
 <h3 id="Customer-Survey">Customer Survey</h3>
 
-To investigate the preferences of Nook Café patrons, we conducted a survey asking customers for their thoughts on alcohol.
+To explore the preferences of Nook Café patrons, we conducted a survey to gather their opinions on alcohol. The survey was a success, as students were enthusiastic about having a bar that serves alcoholic beverages.
 
-1. How often do you drink alcohol?
+<h4 id="About-You">About You</h4>
+
+1. How old are you?
+- [ ] Under 18
+- [ ] 18-20
+- [ ] 21-23
+- [x] 24-26
+- [ ] 27+
+
+2. How do you identify? (Check all that apply)
+- [ ] Black or African American
+- [ ] Hispanic or Latino
+- [x] Asian
+- [ ] White
+- [ ] Other (please specify) ___________
+
+3. Gender
+- [ ] Male
+- [x] Female
+- [ ] Other (please specify) ___________
+
+<h4 id="Drinking-Habits">Drinking Habits</h4>
+
+4. How often do you drink alcohol?
 - [ ] Never
 - [x] Once in a while (1-2 days per week)
 - [ ] Pretty often (3-4 days per week)
 - [ ] All the time (5+ days per week)
+
+5. When do you drink, how many hours does it actually last?
+- [ ] Less than an hour
+- [x] 1-2 hours
+- [ ] 3-4 hours
+- [ ] 5+ hours
+
+6. How many drinks do you usually have in one sitting?
+- [ ] 1-2
+- [x] 3-4
+- [ ] 5-6
+- [ ] 7+
+
+7. What do you usually drink? (Check all that apply)
+- [x] Beer
+- [ ] Wine
+- [x] Cocktails
+- [ ] Hard seltzers
+- [x] Liquor shots
+- [ ] Other (please specify) ___________
+
+8. Do most of your friends drink?
+- [x] Yes, almost all of them
+- [ ] Some do, some don't
+- [ ] Not really
+
+9. Would you like bars to have more non-alcoholic drink options?
+- [x] Yes!
+- [ ] Nope
+- [ ] I don't really care
+      
+<h4 id="Bar-Experience">Bar Experience & Preferences</h4>
+
+10. What would make a bar more appealing to you? (Check all that apply)
+- [x] Student discounts
+- [x] Themed nights/ events
+- [x] Dating events
+- [x] Live music or entertainment
+- [ ] More non-alcoholic drink options
+- [ ] Better food options
+- [ ] More seating ares
+- [ ] Safer ways to get home (like shuttle services or ride disccounts)
+- [ ] Other (please specify) ___________
+
+11. What kind of non-alcoholic drinks would you actually want to see at bars? (Check all that apply)
+- [x] Mocktails (fancy non-alcoholic cocktails)
+- [x] Alcohol free beer/ wine
+- [x] Cool sodas or specialty drinks
+- [x] Fresh juices & smoothies
+- [ ] Other (please specify) ___________
+
+12. Would you go to a bar that mainly served non-alcoholic drinks?
+- [ ] Yes, would love that
+- [ ] No way
+- [x] Maybe, depends on the vibe
+
+**Thanks for filling this out! Your input really helps!**
             
 ---
 
@@ -294,6 +379,15 @@ We considered the following attributes from [faculty.csv](https://github.com/kpn
 
 `White`: the number of White faculty for that year.
 
+<p float="left">
+  <img src="/Figure/faculty_Gender_prediction.jpg" width="400" />
+  <img src="/Figure/faculty_Race_prediction.jpg" width="400" /> 
+</p>
+
+<p float="center">
+  <img src="/Figure/faculty_White_prediction.jpg" width="500" />
+</p>
+
 | **Population**       | 2025        | 2026        | 2027        |
 | -------------------- | ----------- | ----------- | ----------- | 
 | Male                 | 1,947       | 1,840       | 1,590       |
@@ -301,7 +395,7 @@ We considered the following attributes from [faculty.csv](https://github.com/kpn
 | African American     | 341         | 397         | 474         |
 | Asian American       | 732         | 724         | 648         | 
 | Hispanic             | 347         | 348         | 337         | 
-| White                |       |      |       | 
+| White                | 1845        | 1839        | 1843        | 
 
 
 <h4 id="Predicting-consumers">Predicting alcohol consumers from the University of Houston</h4>
