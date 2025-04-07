@@ -741,5 +741,7 @@ By focusing on value-added service experiences, Nook can differentiate itself fr
 <h3 id="Code-Description">Code Description</h3>
 
 [data_inputs.ipynb](https://github.com/kpnguyen21/erdos-coffee-bar/blob/main/data_inputs.ipynb): Created [students.csv](https://github.com/kpnguyen21/erdos-coffee-bar/blob/main/Data/students.csv) and [international_students/csv](https://github.com/kpnguyen21/erdos-coffee-bar/blob/main/Data/international_students.csv)
+
 [faculty_inputs.ipynb](https://github.com/kpnguyen21/erdos-coffee-bar/blob/main/faculty_inputs.ipynb): Created [faculty.csv](https://github.com/kpnguyen21/erdos-coffee-bar/blob/main/Data/faculty.csv)
+
 [regression.ipynb](https://github.com/kpnguyen21/erdos-coffee-bar/blob/main/regression.ipynb): Fitted 2014-2024 data and made predictions for 2025-2027. Estimated number of drinkers from the University of Houston student population and the preferences on Beer, Wine, and Spirits.
