@@ -4,7 +4,7 @@ Erdos UX Research - Spring 2025
 
 <b>Objective:</b>
 
-Nook Café, a coffee shop, seeks to diversify into alcoholic beverages. It is located on the campus of a Southern University, one of the largest and most cosmopolitan cities in the United States. As of February 2025, the city is the fourth most populated city in the US, with diverse cultures and restaurants in the area. The university is the largest in the city, with a total enrollment of 47,980 students in 2024. To diversify into alcohol, Nook Café must extend its opening hours, among other strategic moves. Nook Café intends to attract patrons both on and off campus.
+Nook Café, a coffee shop, seeks to diversify into alcoholic beverages. It is located on the University of Houston campus of Houston, one of the largest and most cosmopolitan cities in the United States. As of February 2025, the city is the fourth most populated city in the US, with diverse cultures and restaurants in the area. The university is the largest in the city, with a total enrollment of 47,980 students in 2024. To diversify into alcohol, Nook Café must extend its opening hours, among other strategic moves. Nook Café intends to attract patrons both on and off campus.
 
 A unique characteristic of the city where Nook Café is located is its limited public transit system. Among the top 5 most populous metro areas, the city had the second-lowest public transit ridership rate in 2019, with only 18 rides per resident, compared to New York City, where people took almost 200 annual rides per resident. Hence, the question of how external patrons would commute to Nook Café may pose a challenge. Above all, external patrons must be motivated enough to travel past competitors to reach Nook Café for alcoholic beverages.
 
@@ -15,9 +15,14 @@ A unique characteristic of the city where Nook Café is located is its limited p
     <ul>
             <li><a href="#Hours">Business Hours</a></li>
             <li><a href="#Location">Location</a></li>
-            <li><a href="#Predicting-consumers">Predicting alcohol consumers from the University of Houston</a></li>
+            <li><a href="#Competitors">Competitors</a></li>
         </ul>
     <li><a href="#Customer-Survey">Customer Survey</a>
+        <ul>
+            <li><a href="#About-You">About You</a></li>
+            <li><a href="#Drinking-Habits">Drinking Habits</a></li>
+            <li><a href="#Bar-Experience">Bar Experiences & Preferences</a></li>
+        </ul>
     <li><a href="#Market-Size">Market Size Analysis</a>
         <ul>
             <li><a href="#University-of-Houston-students">Student Data Analysis</a></li>
@@ -39,11 +44,9 @@ A unique characteristic of the city where Nook Café is located is its limited p
 
 Nook Café has established itself as one of the favorite spots on campus for university stakeholders to relax and have coffee. It has existed for eighteen years on campus and has recorded steady growth. However, in 2020, the café recorded a significant decline in sales and profit. The global COVID-19 pandemic and lockdown were responsible for the decline. However, many years after the pandemic and the return to normalcy, Nook Café returned to profitability. Still, sales and profit have remained stagnant, indicating that these business indices have reached their ceiling.
 
-The business reality with Nook Café suggests that we should look beyond the 2020 COVID-19 pandemic for problems mitigating against Nook Café's business growth as the pandemic appears to no longer pose a threat. Our preliminary interview of 10 patrons sited at Nook Café suggests other problems may be responsible for the stagnation of growth. Several coffee shops are located outside the campus but within a radius of 5 miles, competing with Nook Café. In our preliminary study of competition, we noticed a common and emerging trend of hybridity, including coffee and alcohol offerings among the surrounding coffee shops. For example, Double Trouble Caffeine & Cocktails is located 2.6 miles from Nook and offers alcoholic beverages. We concluded that including alcohol in the coffee shop business has become a trend, and it is long overdue for Nook Café to diversify into the alcohol market. The exclusion of Nook from the alcohol market is a problem that contributes to stagnation in business growth.
-
 <h4 id='Hours'>Business Hours</h4>
 
-Nook Café closes at 5 pm on weekdays and 2 pm on weekends. We discovered that competitors stay open for extended hours; for instance, Cowboy Café, located 3.6 miles from Nook, operates daily from 8 am to 12 am. One challenge for Nook in competing is the university's restriction on alcohol sales during working hours (9 am – 5 pm). Therefore, Nook should consider selling alcohol after 5 pm and extending its operating hours. Google statistics revealed that while Nook maintains a steady number of patrons during the day, it loses them to competitors later in the day. To address this, Nook must focus on improving customer retention during the evening and nighttime hours.
+Nook Café closes at 5 pm on weekdays and 2 pm on weekends. We discovered that competitors operate for extended hours; for example, Cowboy Café, located 3.6 miles from Nook, is open daily from 8 am to 12 am. One challenge Nook faces in competing is the university's restriction on alcohol sales during working hours (9 am – 5 pm). Therefore, Nook should consider selling alcohol after 5 pm and extending its operating hours. Google statistics revealed that while Nook maintains a steady number of patrons during the day, it attracts fewer customers later in the day. To address this, Nook must focus on improving customer retention during the evening and nighttime hours.
 
 <p float="center">
   <img src="/Figure/Nook_hours.PNG" width="1000" />
@@ -55,17 +58,105 @@ While it is easy for Nook to enter the alcohol market, it must make extra strate
 
 Nook is located on a large campus with an enrollment of 47,980 in 2024. Besides, it is located in a city adjudged as the 4th largest city in the US. This geographical location means there are tremendous opportunities within the campus and more significant opportunities outside the campus if Nook taps into these external opportunities. Besides, Nook has achieved a strong brand image on campus. It can leverage these strengths to tap into opportunities comprising various activities on campus that attract outside vendors to sell alcohol on campus. For example, the campus welcomes over 1000 guests across all sports divisions during the game season. With Nook's opportunities and strength, it must navigate its proposed entry into the alcoholic market cautiously to tap the benefits of a new market.
 
+<h4 id='Competitors'>Competitors</h4>
+
+The University of Houston does not have many bars on campus. Prior to COVID-19, there was a popular bar named `Rooftop Bar and Grill on Calhoun`, frequented by students and faculty. Located next to the Nook Café, it featured live music and outdoor seating. However, it closed due to financial difficulties during COVID-19. Another establishment on campus that serves alcoholic beverages is `The Den`, a popular grilled restaurant. During sports games, it is a favored spot for watching the games while drinking with friends, although its limited space cannot accommodate large crowds.
+
+Situated in the heart of downtown, there are several bars approximately 2 miles away from the University of Houston, such as `Axelrad Beer Garden`, `The Owl`, and `The Dirt Bar`. However, reaching these bars from campus is inconvenient due to the lack of public transportation and limited parking in the downtown area—factors that present significant challenges for students living on campus. As a result, the primary competitor for the Nook Café was `The Den`.
+
+The business reality with Nook Café suggests that we should look beyond the 2020 COVID-19 pandemic for problems mitigating against Nook Café's business growth as the pandemic appears to no longer pose a threat. Our preliminary interview of 10 patrons sited at Nook Café suggests other problems may be responsible for the stagnation of growth. Several coffee shops are located outside the campus but within a radius of 5 miles, competing with Nook Café. In our preliminary study of competition, we noticed a common and emerging trend of hybridity, including coffee and alcohol offerings among the surrounding coffee shops. For example, `Double Trouble Caffeine & Cocktails` is located 2.6 miles from Nook and offers alcoholic beverages. We concluded that including alcohol in the coffee shop business has become a trend, and it is long overdue for Nook Café to diversify into the alcohol market. The exclusion of Nook from the alcohol market is a problem that contributes to stagnation in business growth.
+
 ---
 
 <h3 id="Customer-Survey">Customer Survey</h3>
 
-To investigate the preferences of Nook Café patrons, we conducted a survey asking customers for their thoughts on alcohol.
+To explore the preferences of Nook Café patrons, we conducted a survey to gather their opinions on alcohol. The survey was a success, as students were enthusiastic about having a bar that serves alcoholic beverages.
 
-1. How often do you drink alcohol?
+<h4 id="About-You">About You</h4>
+
+1. How old are you?
+- [ ] Under 18
+- [ ] 18-20
+- [ ] 21-23
+- [x] 24-26
+- [ ] 27+
+
+2. How do you identify? (Check all that apply)
+- [ ] Black or African American
+- [ ] Hispanic or Latino
+- [x] Asian
+- [ ] White
+- [ ] Other (please specify) ___________
+
+3. Gender
+- [ ] Male
+- [x] Female
+- [ ] Other (please specify) ___________
+
+<h4 id="Drinking-Habits">Drinking Habits</h4>
+
+4. How often do you drink alcohol?
 - [ ] Never
 - [x] Once in a while (1-2 days per week)
 - [ ] Pretty often (3-4 days per week)
 - [ ] All the time (5+ days per week)
+
+5. When do you drink, how many hours does it actually last?
+- [ ] Less than an hour
+- [x] 1-2 hours
+- [ ] 3-4 hours
+- [ ] 5+ hours
+
+6. How many drinks do you usually have in one sitting?
+- [ ] 1-2
+- [x] 3-4
+- [ ] 5-6
+- [ ] 7+
+
+7. What do you usually drink? (Check all that apply)
+- [x] Beer
+- [ ] Wine
+- [x] Cocktails
+- [ ] Hard seltzers
+- [x] Liquor shots
+- [ ] Other (please specify) ___________
+
+8. Do most of your friends drink?
+- [x] Yes, almost all of them
+- [ ] Some do, some don't
+- [ ] Not really
+
+9. Would you like bars to have more non-alcoholic drink options?
+- [x] Yes!
+- [ ] Nope
+- [ ] I don't really care
+      
+<h4 id="Bar-Experience">Bar Experience & Preferences</h4>
+
+10. What would make a bar more appealing to you? (Check all that apply)
+- [x] Student discounts
+- [x] Themed nights/ events
+- [x] Dating events
+- [x] Live music or entertainment
+- [ ] More non-alcoholic drink options
+- [ ] Better food options
+- [ ] More seating ares
+- [ ] Safer ways to get home (like shuttle services or ride disccounts)
+- [ ] Other (please specify) ___________
+
+11. What kind of non-alcoholic drinks would you actually want to see at bars? (Check all that apply)
+- [x] Mocktails (fancy non-alcoholic cocktails)
+- [x] Alcohol free beer/ wine
+- [x] Cool sodas or specialty drinks
+- [x] Fresh juices & smoothies
+- [ ] Other (please specify) ___________
+
+12. Would you go to a bar that mainly served non-alcoholic drinks?
+- [ ] Yes, would love that
+- [ ] No way
+- [x] Maybe, depends on the vibe
+
+**Thanks for filling this out! Your input really helps!**
             
 ---
 
@@ -294,6 +385,21 @@ We considered the following attributes from [faculty.csv](https://github.com/kpn
 
 `White`: the number of White faculty for that year.
 
+The faculty population at the University of Houston has predominantly consisted of males, and the number of both male and female faculty members has grown tremendously over the past 10 years. The racial demographics were categorized as `African American`, `Asian American`, `Hispanic`, `White`, and `International`. Since the number of international faculty was minimal, we excluded the `International` group from our analyses.
+
+<p float="left">
+  <img src="/Figure/faculty_Gender_prediction.jpg" width="400" />
+  <img src="/Figure/faculty_Race_prediction.jpg" width="400" /> 
+</p>
+
+We were able to fit the populations of `Male`, `Female`, `African American`, `Asian American`, and `Hispanic` using a degree 4 of `polyfit`. Based on the fit, we predicted the populations of these groups for 2025–2027. Since the faculty data was organized by year, we assumed that the populations for both Spring and Fall semesters would remain the same.
+
+<p float="center">
+  <img src="/Figure/faculty_White_prediction.jpg" width="500" />
+</p>
+
+However, `polyfit` could not accurately predict the White faculty population. Unlike the Indian student population, which was a minority, the White faculty constituted the majority at the University of Houston. Disregarding the White faculty population would underestimate the market size. Therefore, we decided to base the prediction for the White faculty population on the average of the previous three years.
+
 | **Population**       | 2025        | 2026        | 2027        |
 | -------------------- | ----------- | ----------- | ----------- | 
 | Male                 | 1,947       | 1,840       | 1,590       |
@@ -301,7 +407,7 @@ We considered the following attributes from [faculty.csv](https://github.com/kpn
 | African American     | 341         | 397         | 474         |
 | Asian American       | 732         | 724         | 648         | 
 | Hispanic             | 347         | 348         | 337         | 
-| White                |       |      |       | 
+| White                | 1,845       | 1,839       | 1,843       | 
 
 
 <h4 id="Predicting-consumers">Predicting alcohol consumers from the University of Houston</h4>
@@ -324,19 +430,26 @@ $$ P(\text{people between 30 to 49 drinking}) = 0.70$$
 
 **Drinking Probabilities by Race & Gender:**
 
+Some studies, such as [Ethnicity and Health Disparities in Alcohol Research](https://pmc.ncbi.nlm.nih.gov/articles/PMC3887493/#:~:text=In%20a%20sample%20of%20young,%2DBlack%20and%20non%2DHispanics.), indicate that there are correlations between race and drinking patterns, with some races exhibiting higher rates of drinking, heavy drinking, or other alcohol-related problems. Among these groups, the `White` population has the highest probability of drinking, while the `Asian` population has the lowest. This could be due to genetic factors, as some Asians experience an alcohol flush reaction, which discourages them from drinking.
+
 $$ P(\text{White drinking}) = 0.68$$
 $$ P(\text{Black drinking}) = 0.50$$
 $$ P(\text{Hispanic drinking}) = 0.59$$
 $$ P(\text{Asian Americans drinking}) = 0.318 $$
 
+Additionally, the proportions of White men and White women who consume alcohol are reported to be equal. This suggests that drinking behavior is not influenced by gender within this demographic, but rather may be shaped by other factors such as cultural norms, social settings, or accessibility.
+
 $$ P(\text{White men drinking}) = 0.68$$
 $$ P(\text{White women drinking}) = 0.68$$
 
+Although men in both Hispanic and Black groups are more likely to consume alcohol than women, the Hispanic population overall tends to drink more than the Black population. Interestingly, Hispanic women are even more likely to drink than Black men, highlighting a significant difference in alcohol consumption patterns between these two groups. This could be influenced by cultural norms, social acceptance of drinking, or varying levels of access to alcohol within these communities. 
+
 $$ P(\text{Hispanic men drinking}) = 0.6$$
 $$ P(\text{Hispanic women drinking}) = 0.57$$
-
 $$ P(\text{Black men drinking}) = 0.52$$
 $$ P(\text{Black women drinking}) = 0.48$$
+
+By applying these conditional probabilities alongside our predictions for different racial groups of faculty and students at the University of Houston, we calculated the number of alcohol consumers for the Nook in 2025–2027. Our calculations revealed that the number of consumers during the Spring semester was consistently lower compared to the Fall semester, with reductions in potential customers occurring between Fall and Spring semesters. This insight would assist the Nook in adjusting its business strategies accordingly.
 
 <p float="center">
   <img src="/Figure/output.png" width="1000" />
@@ -353,7 +466,7 @@ To better predict customer behavior, we incorporated national statistics on **al
 - **Wine**: 29% of drinkers prefer wine.
 - **Spirits**: 31% of drinkers prefer spirits.
 
-We applied these probabilities to our estimates for alcohol consumers to determine the expected number of customers for each category.
+We applied these probabilities to our estimates of alcohol consumers to calculate the expected number of customers for each category. Based on our analysis, beer emerged as the most popular choice among consumers, followed by spirits, and then wine. This trend highlights the strong preference for beer compared to other alcoholic beverages, which could be attributed to factors such as pricing, availability, and cultural preferences. Understanding these preferences provides valuable insight for the Nook to optimize its inventory and marketing strategies to better cater to customer demands.
 
 <!-- #### **Estimated Distribution of Alcohol Consumers by Beverage Type** -->
 
@@ -621,11 +734,14 @@ By focusing on value-added service experiences, Nook can differentiate itself fr
 - Haitao Zhang, W. June Ruan, S. Patricia Chou, Tulshi D. Saha, Amy Z. Fan, Boji Huang, Aaron M. White, _Exploring Patterns of Alcohol Use and Alcohol Use Disorder Among Asian Americans with a Finer Lens_, Drug and Alcohol Dependence, Volume 257, 2024.
 - [Percentage of Americans Drinking Alcohol](https://news.gallup.com/poll/467507/percentage-americans-drink-alcohol.aspx)
 - [Young Adults' Alcohol Consumption Trends](https://news.gallup.com/poll/648413/alcohol-consumption-increasingly-viewed-unhealthy.aspx)
+- [Ethnicity and Health Disparities in Alcohol Research](https://pmc.ncbi.nlm.nih.gov/articles/PMC3887493/#:~:text=In%20a%20sample%20of%20young,%2DBlack%20and%20non%2DHispanics.)
 
 ---
 
 <h3 id="Code-Description">Code Description</h3>
 
 [data_inputs.ipynb](https://github.com/kpnguyen21/erdos-coffee-bar/blob/main/data_inputs.ipynb): Created [students.csv](https://github.com/kpnguyen21/erdos-coffee-bar/blob/main/Data/students.csv) and [international_students/csv](https://github.com/kpnguyen21/erdos-coffee-bar/blob/main/Data/international_students.csv)
+
+[faculty_inputs.ipynb](https://github.com/kpnguyen21/erdos-coffee-bar/blob/main/faculty_inputs.ipynb): Created [faculty.csv](https://github.com/kpnguyen21/erdos-coffee-bar/blob/main/Data/faculty.csv)
 
 [regression.ipynb](https://github.com/kpnguyen21/erdos-coffee-bar/blob/main/regression.ipynb): Fitted 2014-2024 data and made predictions for 2025-2027. Estimated number of drinkers from the University of Houston student population and the preferences on Beer, Wine, and Spirits.
