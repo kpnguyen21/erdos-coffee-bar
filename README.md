@@ -33,6 +33,7 @@ A unique characteristic of the city where Nook Café is located is its limited p
     <li><a href="#Market-Analysis">Market Analysis</a></li>
     <li><a href="#Cost">Cost of Diversification</a></li>
     <li><a href="#Revenue-Forecast">Sales & Revenue Forecast</a></li>
+    <li><a href="#Risk">Risk Assessment & Market Opportunity</a></li>
     <li><a href="#Conclusion">Conclusion</a></li>
     <li><a href="#Resource">Resource</a></li>
     <li><a href="#Code-Description">Code Description</a></li>
@@ -720,6 +721,27 @@ Alcohol sales at Nook Café will differ between weekdays and weekends. We envisi
         <td><b>481,572</b></td>
     </tr>
 </table>
+
+---
+<h3 id="Risk">Risk Assessment & Market Opportunity</h3>
+
+The risks for the new hybrid business are 
+
+***1) Shifting Consumer Habits:***
+Alcohol consumption is declining among students, reflecting a broader national trend. According to Gallup data from July 2023, a record-high 45% of Americans now believe that drinking one or two alcoholic beverages daily is harmful—a 6-point increase from 2022 and 17 points higher than in 2018. Only 8% now believe moderate drinking has any health benefits, the lowest percentage on record. 
+
+
+***2) Rising Demand for Health-Conscious Alternatives:***
+This change in perception is directly fueling demand for healthier, more mindful beverage choices. The global non-alcoholic beverage market reached $1.22 billion in 2023 and is projected to grow by 5.2% annually through 2028.
+
+
+***3) A Crowded Local Market:***
+Nook Cafe is located in a competitive area, with five hybrid coffee/alcohol establishments already in operation. While this highlights strong demand, it also underscores the need for a clearly differentiated concept.
+
+**Why Nook is Positioned to Succeed?**
+
+Despite these challenges, Nook’s location on the University of Houston campus offers a distinct and strategic advantage. With 48,000 students—8,000 of whom live on campus with limited transportation options—there is a captive, underserved market for a high-quality hybrid establishment. Moreover, this risk opens up an opportunity to tap into the growing market of alternative non-alcoholic beverages such as mocktails. These beverages attract both non-drinkers and drinkers looking for alternatives, expanding Nook’s potential customer base. We propose positioning these beverages as sophisticated, premium offerings, with unique flavor profiles to further distinguish Nook from competitors in a saturated market.
+
 
 ---
 <h3 id="Conclusion">Conclusion</h3>
